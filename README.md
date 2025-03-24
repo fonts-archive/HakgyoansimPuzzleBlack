@@ -1,4 +1,4 @@
-# 학교안심 퍼즐
+# 학교안심 퍼즐 Black
 
 [배포처 바로가기](https://copyright.keris.or.kr/wft/fntDwnldView?fntGrpId=GFT202408200000000000010)
 
